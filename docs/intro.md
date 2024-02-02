@@ -2,46 +2,40 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Econominhas
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Econominhas é um aplicativo de controle financeiro, que visa ajudar os usuários a gerir tudo relativo a dinheiro em 1 único app ou ecosistema.
 
-## Getting Started
+## Features do MVP
 
-Get started by **creating a new site**.
+### Orçamentos & Categorias
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+A feature principal do nosso aplicativo será o orçamento junto das categorias, com ele os usuários vão definir o quanto esperam gastar, por mês, separado por categorias, como Moradia, Mercado, Entreterimento, etc.
 
-### What you'll need
+Ex: Espero gastar R$1000 por mês com aluguel (Moradia), R$300 com roles e entreterimento, etc
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Cartões & contas bancárias
 
-## Generate a new site
+Os usuários poderão adicionar seus cartões de crédito, VA, VR, VT e suas contas bancárias para dizer de como os gastos foram feitos, o valor da fatura dos cartões de crédito, o saldo dos VAs, VRs e VTs, etc
 
-Generate a new Docusaurus site using the **classic template**.
+### Transações & Recorrencia
 
-The classic template will automatically be added to your project after you run the command:
+Transações são registros de ganhos ou gastos, e podem ser criados manualmente pelos usuários ou automaticamente pelo sistema.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Um dos exeplos de criação automatica é o salário do usuário, onde ele configura um valor e uma data do mês para ser recebido, e a transação é criada todo mês nessa data.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+# Pós-MVP
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## PlayStore
 
-## Start your site
+Publicaremos o app na PlayStore para que todo mundo possa criar uma conta e usar o aplicativo.
 
-Run the development server:
+## Open Finance
 
-```bash
-cd my-website
-npm run start
-```
+Vamos conectar o aplicativo com o OpenFinance, nos permitindo ter acesso aos dados bacários dos usuários sem que eles precisem cadastrar as coisas manualmente.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Isso automatizará:
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- A criação de contar bancárias
+- A criação de cartões de crédito
+- A criação de transações e parcelamentos
