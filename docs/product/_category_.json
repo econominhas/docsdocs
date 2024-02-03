@@ -1,8 +1,8 @@
 {
   "label": "Produto",
-  "position": 5,
+  "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Informações sobre o Produto do projeto"
+    "description": "Informações sobre o setor de Produto do projeto"
   }
 }
