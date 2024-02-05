@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Design
+# Cargos e responsabilidades
 
 O setor de design é um setor de suporte, onde são criados materiais auxiliares para os trabalhos dos demais setores, principalmente os setores de negócio e de tecnologia.
 

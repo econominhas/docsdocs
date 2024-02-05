@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
-# Tecnologia
+# Cargos e responsabilidades
 
 O setor de tecnologia é responsavel por criar as coisas que nossos clientes utilizam, e transformar nossas ideias em realidade.
 
@@ -23,18 +23,14 @@ O Tech Leader, como o proprio nome da já diz, é o responsavel por liderar e gu
 - Ser a referencia tecnica do time, fornecendo dicas de estudo, orientações para a carreira e feedbacks construtivos
 - Arquitetar o a estrutura do sistemas para garantir a escalabilidade e manutabilidade
 
-## Desenvolvedor Senior
-
-> TO DO
-
-## Desenvolvedor Pleno
-
-> TO DO
-
-## Desenvolvedor Junior
+## Desenvolvedor
 
 > TO DO
 
 ## QA
 
 > TO DO
+
+### Necessario para ocupar o cargo
+
+- Ser uma pessoa criativa, capaz de pensar em multiplos casos possiveis para realizar os testes automatizados

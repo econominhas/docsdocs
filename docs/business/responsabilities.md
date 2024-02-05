@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Negócio
+# Cargos e responsabilidades
 
 Os cargos de negócio são responsavéis por entender a fundo os objetivos da organização e guiar todo o desenvolvimento do produto, entendendo todas as regras de negócio e compartilhando elas entre as areas da organização.
 
