@@ -8,6 +8,10 @@ sidebar_position: 2
 
 Caso o aplicativo de certo, **abriremos uma cooperativa**, onde todos que trabalharam no projeto até o fim serão "donos" igualitários da empresa.
 
+### O que isso significa?
+
+Que nós **abriremos uma empresa juntos**, e todos seremos donos dessa empresa, **com porcentagens iguais**, dividindo os custos e os lucros, e sempre sendo extremamente transparentes uns com os outros sobre o que esta acontecendo, de onde vem os custos, com provas, boletos, explicando certinho, etc.
+
 ## Nossos princípios
 
 [Fonte: Sicredi](https://www.sicredi.com.br/coop/norte/principios-do-cooperativismo/)
@@ -46,26 +50,38 @@ A coooperativa é **obrigada** a investir na educação dos cooperados, seja com
 
 > Os membros contribuem equitativamente para o capital das suas cooperativas e controlam-no democraticamente. Parte desse capital é, normalmente, propriedade comum da cooperativa. Os membros recebem, habitualmente, se houver, uma remuneração limitada ao capital integralizado, como condição de sua adesão.
 
-Isso significa 2 coisas: Que para ser um cooperado, é necessário fazer um investimento na cooperativa, e que os lucros (em cooperativas, isso é chamado de "sobras" ao inves de "lucro") são distribuidos entre os cooperados.
+Isso significa 2 coisas: Que para ser um cooperado, é necessário fazer um investimento na cooperativa, e que os lucros são distribuidos entre os cooperados.
 
 Assim como para investir em uma empresa é necessario comprar ações dela, na cooperativa também é necessário fazer um investimento incial para fazer parda daquela empresa, o que pode soar como um esquema de piramide, golpe, ou algo do tipo, porém é facil vermos a diferença:
 
 **Mas eu ou ter q pagar pra ser contratado!?!?!?** Sendo o mais simplório possivel, sim, é uma maneira de encarar isso, porém, isso é um investimento. Assim como você vai investir seu tempo e esforço em qualquer empresa que você trabalhe (e na enorme maioria das empresa, não vai receber 1 centavo dos lucros em troca, independente do quanto você trabalhe), em cooperativas é necessário, por lei, um investimento simbolico para realmente indicar que você está de acordo com os objetivos da empresa.
 
-E o mais legal de tudo, é que as sobras (ou "lucro") da cooperativa é **dividido entre todos os cooperados**, ou seja, quanto mais "lucro" a cooperativa tiver, mais dinheiro o cooperado recebe! E na nossa cooperativa, o lucro é dividido igualmente entre todos os cooperados, então quanto mais nós nos esforçarmos, mais nós ganharemos em troca!
+E o mais legal de tudo, é que os lucros da cooperativa é **dividido entre todos os cooperados**, ou seja, quanto mais "lucro" a cooperativa tiver, mais dinheiro o cooperado recebe! E na nossa cooperativa, o lucro é dividido igualmente entre todos os cooperados, então quanto mais nós nos esforçarmos, mais nós ganharemos em troca!
 
 ## Além dos princípios
 
 Todos os valores descritos a seguir serão definidos no estatuto social da cooperativa, para que sejam valores imutaveis e reflitam exatamente o tipo de ambiente que queremos criar.
 
-### Vida além do trabalho: Semana de trabalho de 4 dias
+### Semana de trabalho de 4 dias
 
 Atualmente, com a tecnologia que temos, é mais que provado que uma semana de trabalho 4 dias é o bastante para termos uma empresa produtiva, dando assim mais qualidade de vida ao trabalhador.
 
-### Justiça salárial: Disparidade salárial de até 35x
+### Justiça salárial
 
 Ao contrário de diversas empresas que tem uma disparidade salarial entre o menor e o maior salario de [centenas de vezes](https://www1.folha.uol.com.br/mercado/2023/04/disparidade-salarial-pode-ser-embriao-para-escandalos-como-o-da-americanas.shtml#:~:text=Americanas%3A%20maior%20sal%C3%A1rio%20era%20431,04%2F2023%20%2D%20Mercado%20%2D%20Folha), para manter uma carga salárial justa porém competitiva, teremos um limite de 35x o menor salário para o maior salário, sendo assim necessário aumentar os menores salarios para conseguir aumentar o maior.
 
-### Distribuição igualitária das sobras
+### Distribuição igualitária dos lucros
 
-Em cooperativas, é possivel distribuir as sobras de acordo com o salário (quem ganhar um salário maior recebe mais e quem recebe um salário menor recebe menos). Na nossa, queremos distribuir em porcentagens iguais para todos os cooperados, já que todos nos esforçamos para conseguir aquele resultado, todos temos direito a uma parte igual dele.
+Em cooperativas, é possivel distribuir os lucros de acordo com o salário (quem ganhar um salário maior recebe mais e quem recebe um salário menor recebe menos). Na nossa, queremos distribuir em porcentagens iguais para todos os cooperados, já que todos nos esforçamos para conseguir aquele resultado, todos temos direito a uma parte igual dele.
+
+### Férias no primeiro ano de empresa
+
+Ao inves de precisar esperar 1 ano (ou até 2) para tirar férias, aqui você poderá já tirar alguns dias de ferias já no seu primeiro ano de empresa.
+
+### Feriado é feriado, além de emendado
+
+Feriado facultativo (aqueles onde a empresa decide se dará o dia de folga ou não) é feriado SIM! E caso caia proximo de uma segunda ou sexta feira, mudaremos o dia para emendar com o fim de semana ou daremos 1 dia de folga a mais.
+
+### Direitos iguais para todos
+
+Ao contrario de diversas empresas onde apenas os cargos de gestão e cargos mais altos da hierarquia tem direitos exclusivos, aqui, caso 1 colaborador tenha direito algum direito, todos os outros terão o mesmo direito.
