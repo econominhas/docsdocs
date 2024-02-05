@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Econominhas",
   tagline: "Controle seu dinheiro na palma da sua mão",
-  favicon: "img/favicon.ico",
+  favicon: "img/econominhas.png",
 
   // Set the production url of your site here
   url: "https://econominhas.github.io",
@@ -53,7 +53,7 @@ const config: Config = {
       title: "Econominhas",
       logo: {
         alt: "Econominhas Logo",
-        src: "img/logo.svg",
+        src: "img/econominhas.png",
       },
       items: [
         {

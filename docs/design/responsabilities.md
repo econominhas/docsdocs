@@ -6,6 +6,21 @@ sidebar_position: 1
 
 O setor de design é um setor de suporte, onde são criados materiais auxiliares para os trabalhos dos demais setores, principalmente os setores de negócio e de tecnologia.
 
+## Designer
+
+O designer é responsavel por ajudar os outros colaboradores com materiais visuais.
+
+### Necessario para ocupar o cargo
+
+- Conhecimento de ferramentas de design, como Photoshop
+- Conhecimento de cores, tamanhos, formatos, para criação de materiais de design
+
+### Lista de responsabilidades
+
+- Criar e manter a identidade visual da organização
+- Criar materiais para redes sociais seguindo as especificações do time de marketing
+- Criar materiais para campanhas de marketing seguindo as especificações do time de marketing
+
 ## UI Designer
 
 > TO DO
