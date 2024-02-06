@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Econominhas
+# A ideia
 
 Econominhas é um aplicativo de controle financeiro, que visa ajudar os usuários a gerir tudo relativo a dinheiro em 1 único app ou ecosistema.
 
@@ -24,13 +24,13 @@ Transações são registros de ganhos ou gastos, e podem ser criados manualmente
 
 Um dos exeplos de criação automatica é o salário do usuário, onde ele configura um valor e uma data do mês para ser recebido, e a transação é criada todo mês nessa data.
 
-# Pós-MVP
+## Pós-MVP
 
-## PlayStore
+### PlayStore
 
 Publicaremos o app na PlayStore para que todo mundo possa criar uma conta e usar o aplicativo.
 
-## Open Finance
+### Open Finance
 
 Vamos conectar o aplicativo com o OpenFinance, nos permitindo ter acesso aos dados bacários dos usuários sem que eles precisem cadastrar as coisas manualmente.
 

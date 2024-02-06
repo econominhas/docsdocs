@@ -62,9 +62,9 @@ E o mais legal de tudo, é que os lucros da cooperativa é **dividido entre todo
 
 Todos os valores descritos a seguir serão definidos no estatuto social da cooperativa, para que sejam valores imutaveis e reflitam exatamente o tipo de ambiente que queremos criar.
 
-### Semana de trabalho de 4 dias
+### 6h de trabalho por dia
 
-Atualmente, com a tecnologia que temos, é mais que provado que uma semana de trabalho 4 dias é o bastante para termos uma empresa produtiva, dando assim mais qualidade de vida ao trabalhador.
+Atualmente, com a tecnologia que temos, é mais que provado que uma 6h diarias de trabalho é o bastante para termos uma empresa produtiva, dando assim mais qualidade de vida ao trabalhador.
 
 ### Justiça salárial
 
@@ -85,3 +85,7 @@ Feriado facultativo (aqueles onde a empresa decide se dará o dia de folga ou n�
 ### Direitos iguais para todos
 
 Ao contrario de diversas empresas onde apenas os cargos de gestão e cargos mais altos da hierarquia tem direitos exclusivos, aqui, caso 1 colaborador tenha direito algum direito, todos os outros terão o mesmo direito.
+
+### Salário atualizado
+
+Em diversas empresas, é comum que novos colaboradores recebam salários maiores do que os colaboradores mais antigos, porque o mercado foi mudando e a base salárial atual é maior do que era quando o colaborador foi contratado. Em nossa organização isso não vai acontecer, caso percebamos que o salário do mercado atual é maior do que oq pagamos para nossos colaboradores, aumentaremos o salario deles para ser compativel com o mercado.
