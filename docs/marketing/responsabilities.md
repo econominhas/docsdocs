@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Cargos e responsabilidades
 
-## "Marketeiro"
+## Publicitário
 
 ### Necessario para ocupar o cargo
 
-- Graduação em publicidade ou experiencia similar
+- Graduação em publicidade **ou experiencia similar**
 
 ### Lista de responsabilidades
 
@@ -22,7 +22,7 @@ A pessoa que escreve os textos publicos, e revisa os textos escritos pelos outro
 
 ### Necessario para ocupar o cargo
 
-- Graduação em letras ou experiencia similar
+- Graduação em letras **ou experiencia similar**
 
 ### Lista de responsabilidades
 

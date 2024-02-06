@@ -6,9 +6,9 @@ sidebar_position: 1
 
 Os cargos de negócio são responsavéis por entender a fundo os objetivos da organização e guiar todo o desenvolvimento do produto, entendendo todas as regras de negócio, nossos usuários e compartilhar esse conhecimento entre as areas da organização.
 
-## CEO
+## Diretor Executivo
 
-O CEO é o piloto do barco, ele é responsavel por tomas a decisão de que direção a organização deve seguir. Ex: Devemos focar em PFs, focar em PJs, investir mais em marketing, investir mais em pessoal, etc.
+O diretor é o piloto do barco, ele é responsavel por tomas a decisão de que direção a organização deve seguir. Ex: Devemos focar em PFs, focar em PJs, investir mais em marketing, investir mais em pessoal, etc.
 
 Ele também é o responsavel por convocar assembleias de votação, montar palestras para divulgar os dados e progresso da empresa, tanto para os colaboradores internos.
 

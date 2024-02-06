@@ -29,7 +29,7 @@ A area de legislação agrega todas as areas que serão segregadas em suas propr
 
 ### Necessario para ocupar o cargo
 
-- Faculdade de psicologia ou experiencia similar
+- Faculdade de psicologia **ou experiencia similar**
 
 ### Lista de responsabilidades
 

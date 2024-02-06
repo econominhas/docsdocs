@@ -6,6 +6,13 @@ sidebar_position: 1
 
 O setor de tecnologia é responsavel por criar as coisas que nossos clientes utilizam, e transformar nossas ideias em realidade.
 
+Esse setor é dividido em diversoso níveis de experiencia, classificados como:
+
+- **Estágiario:** Pessoa que apenas começou na area de desenvolvimento, tem pouco ou nenhum conhecimento
+- **Júnior:** Pessoa que já tem algum conhecimento sobre desenvolvimento, bibliotecas e frameworks, sabe se virar o bastante para executar algumas tarefas, mas ainda não entende de boas práticas
+- **Pleno:** Pessoa que já tem bastante conhecimento sobre desenvolvimento, bibliotecas, frameworks e boas praticas. Consegue tomar conta de um projeto não tão complexo por conta própria.
+- **Sênior:** Pessoa que já tem muitos anos de experiência na área, já passou por diversos problemas, conhece o mundo do desenvolvimento como a palma da mão. Sabe identificar os pontos positivos e negativos de cada solução apresentada e tem capacidade de realizar tarefas bem complexas.
+
 ## Tech Leader / Arquiteto
 
 O Tech Leader, como o proprio nome da já diz, é o responsavel por liderar e guiar o time pleo qual ele é responsavel. Isso inclui tanto desde ajudar os membros do time a se aprimorarem tecnicamente, quanto arquitetar as soluções para garantir que elas são escalaveis e manuteniveis.
@@ -25,7 +32,17 @@ O Tech Leader, como o proprio nome da já diz, é o responsavel por liderar e gu
 
 ## Desenvolvedor
 
-> TO DO
+**Importante:** [Senioridades](./responsabilities#cargos-e-responsabilidades)
+
+### Necessario para ocupar o cargo
+
+Obs: Todas as experiencias exigidas são condizentes com a senioridade especifica. Não esperamos que um estágiario tenha dominio de TypeScript por exemplo, esperamos apenas que já tenha ouvido falar e esteja disposto a aprender.
+
+- Experiencia de mercado / projetos pessoais
+- Experiencia com TypeScript
+- Experiencia com as tecnologias utilizadas em cada uma das areas
+  - [BackEnd](./backend/tech.md)
+  - [Mobile](./mobile/tech.md)
 
 ## QA
 
@@ -34,3 +51,15 @@ O Tech Leader, como o proprio nome da já diz, é o responsavel por liderar e gu
 ### Necessario para ocupar o cargo
 
 - Ser uma pessoa criativa, capaz de pensar em multiplos casos possiveis para realizar os testes automatizados
+
+## DevOps
+
+**Importante:** [Senioridades](./responsabilities#cargos-e-responsabilidades)
+
+> TO DO
+
+## DevSecOps
+
+**Importante:** [Senioridades](./responsabilities#cargos-e-responsabilidades)
+
+> TO DO

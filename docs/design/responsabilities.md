@@ -34,11 +34,3 @@ O designer é responsavel por ajudar os outros colaboradores com materiais visua
 ### Lista de responsabilidades
 
 - Criar e documentar as telas dos sites e aplicativos, de forma escalavel e manutenivel
-
-## UX Designer
-
-> TO DO
-
-### Necessario para ocupar o cargo
-
-- Bom entendimento de inglês, o bastante para realizar a leitura de textos e artigos
