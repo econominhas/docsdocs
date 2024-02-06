@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Vagas disponiveis
+# As vagas disponiveis
 
 Clique nos cargos para saber mais detalhes sobre as responsabilidades da vaga
 
@@ -14,6 +14,8 @@ Clique nos cargos para saber mais detalhes sobre as responsabilidades da vaga
 
 - [Dev Mobile (Expo/ReactNative) **SENIOR**](./tech/responsabilities#desenvolvedor), pra ajudar na construcao do app (É a unica vaga que realmente precisa de senioridade e muita experiencia na area, pq já tem 1 pessoa responsavel por isso, e ele n tem tempo pra revisar os PRs e orientar galera mais Junior :/)
 - [DevSecOps](./tech/responsabilities#devsecops), principalmente pra integrar com o OpenFinance, tem uma baita burocracia de deixar tudo seguro
+- [QA](./tech/responsabilities#qa), testar as paradas pra garantir q tá tudo funcionando bem, e no futuro fazer os testes de integracao
+- [Engenheiro de dados](./tech/responsabilities#engenheiro-de-dados), pra nos ajudar a coletar e estruturar dados da empresa para que possamos extrair informacoes relevantes para o negocio
 
 ## Marketing
 

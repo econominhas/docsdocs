@@ -52,6 +52,10 @@ Obs: Todas as experiencias exigidas são condizentes com a senioridade especific
 
 - Ser uma pessoa criativa, capaz de pensar em multiplos casos possiveis para realizar os testes automatizados
 
+## Engenheiro de dados
+
+> TO DO
+
 ## DevOps
 
 **Importante:** [Senioridades](./responsabilities#cargos-e-responsabilidades)

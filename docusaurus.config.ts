@@ -60,7 +60,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "O projeto",
         },
         {
           href: "https://github.com/econominhas/docs",
@@ -76,7 +76,7 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "Tutorial",
+              label: "O projeto",
               to: "/docs/the-idea",
             },
           ],

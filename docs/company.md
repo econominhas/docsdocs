@@ -66,6 +66,10 @@ Todos os valores descritos a seguir serão definidos no estatuto social da coope
 
 Atualmente, com a tecnologia que temos, é mais que provado que uma 6h diarias de trabalho é o bastante para termos uma empresa produtiva, dando assim mais qualidade de vida ao trabalhador.
 
+### 100% remoto, pra sempre
+
+Somos uma empresa de tecnologia, que atua com um produto digital, onde os clientes interagem digitalmente. Não temos **nenhuma** necessidade que justifique o trabalho hibrido ou presencial, por isso nossa filosofia é ser remoto hoje, amanhã e pra sempre.
+
 ### Justiça salárial
 
 Ao contrário de diversas empresas que tem uma disparidade salarial entre o menor e o maior salario de [centenas de vezes](https://www1.folha.uol.com.br/mercado/2023/04/disparidade-salarial-pode-ser-embriao-para-escandalos-como-o-da-americanas.shtml#:~:text=Americanas%3A%20maior%20sal%C3%A1rio%20era%20431,04%2F2023%20%2D%20Mercado%20%2D%20Folha), para manter uma carga salárial justa porém competitiva, teremos um limite de 35x o menor salário para o maior salário, sendo assim necessário aumentar os menores salarios para conseguir aumentar o maior.
