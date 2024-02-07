@@ -6,15 +6,14 @@ sidebar_position: 1
 
 Os cargos de negócio são responsavéis por entender a fundo os objetivos da organização e guiar todo o desenvolvimento do produto, entendendo todas as regras de negócio, nossos usuários e compartilhar esse conhecimento entre as areas da organização.
 
-## Diretor Executivo
+## Presidente
 
-O diretor é o piloto do barco, ele é responsavel por tomas a decisão de que direção a organização deve seguir. Ex: Devemos focar em PFs, focar em PJs, investir mais em marketing, investir mais em pessoal, etc.
+O presidente é o piloto do barco, ele é responsavel por tomas a decisão de que direção a organização deve seguir. Ex: Devemos focar em PFs, focar em PJs, investir mais em marketing, investir mais em pessoal, etc.
 
 Ele também é o responsavel por convocar assembleias de votação, montar palestras para divulgar os dados e progresso da empresa, tanto para os colaboradores internos.
 
 ### Necessario para ocupar o cargo
 
-- Bom entendimento de inglês, o bastante para realizar a leitura de textos e artigos
 - Entender todas as responsabilidades de todos os times e pessoas da empresa, e como o trabalho deles funciona
 
 ### Lista de responsabilidades

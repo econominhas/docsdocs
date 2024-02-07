@@ -6,23 +6,20 @@ sidebar_position: 3
 
 ## Negocio
 
+- [Henrique](https://www.linkedin.com/in/henriqueleite42/): Presidente Interino, Tech Leader BackEnd
 - [Victor](https://www.linkedin.com/in/vitor-hugo-dev/): Product Owner
 
 ## Tecnologia
 
-- [Henrique](https://www.linkedin.com/in/henriqueleite42/): Diretor Executivo, Tech Leader BackEnd
-- Victor: Tech Leader Mobile - React Native
-- Luiz: Tech Leader Mobile - Flutter
+- [Luiz](https://www.linkedin.com/in/luizmatheus/): Tech Leader Mobile
 - [Nicolas](https://www.linkedin.com/in/n%C3%ADcolas-cleiton-707688227/): Dev BackEnd
 - [Gabriel](https://www.linkedin.com/in/gabriel-frança-381843169/): Infra
-- Marcelo: Infra
+- [Marcelo](https://www.linkedin.com/in/marcelo-kodaira-de-almeida/): Infra
+- [Arthur](https://www.linkedin.com/in/arthur-raupp-coelho/): Engenheiro de Dados
+- [Paulo](https://www.linkedin.com/in/pvosantos/): Engenheiro de Dados
 
 ## Design
 
 - [Angela](https://www.behance.net/angelabehrens): UI Designer
 - Suny: UI Designer
-- Gelathina: Designer
-
-## Legislacao
-
-- [Laila](https://www.linkedin.com/in/laila-arede/): RH
+- Athina: Designer
