@@ -43,6 +43,8 @@ sidebar_position: 1
 - Nos cartoes, ter um campo "defaultValue" no banco (banco de financas, NAO de db), com valores que possam ser subistituidos no frontend por valores inseridos pelo usuário, ex: "Xp $\{lastFourDigits}" ae no frontend, o defualt value no name seria montado na hora e exibido como placeholder. Caso o usuário digite algo, ae usa o valor q ele digitou, caso contrário usa aquele default value
 - Visao de gastos por dia
 - Grafico de gastos por dia da semana
+- Familia
+  - Controlar as financas da sua familia
 
 ## E depois?
 
