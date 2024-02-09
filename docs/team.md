@@ -12,7 +12,6 @@ sidebar_position: 3
 ## Tecnologia
 
 - [Luiz](https://www.linkedin.com/in/luizmatheus/): Tech Leader Mobile
-- [Nicolas](https://www.linkedin.com/in/n%C3%ADcolas-cleiton-707688227/): Dev BackEnd
 - [Gabriel](https://www.linkedin.com/in/gabriel-frança-381843169/): Infra
 - [Marcelo](https://www.linkedin.com/in/marcelo-kodaira-de-almeida/): Infra
 - [Arthur](https://www.linkedin.com/in/arthur-raupp-coelho/): Engenheiro de Dados
