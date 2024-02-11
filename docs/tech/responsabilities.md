@@ -20,7 +20,7 @@ O Tech Leader, como o proprio nome da já diz, é o responsavel por liderar e gu
 ### Necessario para ocupar o cargo
 
 - Bom entendimento de inglês, o bastante para realizar a leitura de textos e artigos
-- Pelo menos 8 anos de experiencia no mercado de trabalho, seja em nossa organização ou **grandes corporações** (não é valida experiencia exclusivamente em startups ou pequenas empresas, com exceção de nossa propria organização)
+<!-- - Pelo menos 8 anos de experiencia no mercado de trabalho, seja em nossa organização ou **grandes corporações** (não é valida experiencia exclusivamente em startups ou pequenas empresas, com exceção de nossa propria organização) -->
 - Grande entendimento de diversos tipos de arquitetura e seus prós e contras, como Clean Arch, Hexagonal, Domain-Driven, Onion, etc.
 - Grande entendimento de diversos padrões de projeto e seus prós e contras, como Factory, Adapter, Bridge, Prototype, Decorator, etc.
 - Grande entendimento de Clean Code, processos de Refactoring, debitos tecnicos, etc.

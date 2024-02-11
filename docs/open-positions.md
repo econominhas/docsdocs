@@ -4,15 +4,17 @@ sidebar_position: 4
 
 # As vagas disponiveis
 
-Clique nos cargos para saber mais detalhes sobre as responsabilidades da vaga
+Clique nos cargos para saber mais detalhes sobre as responsabilidades da vaga.
+
+Não é necessário ter experiência na área que você quer atuar, basta apenas ter interesse e saber se virar sozinho pra aprender mais e superar os desafios que virão com o projeto.
 
 ## Tecnologia
 
-- [Dev Mobile Flutter (Pleno / Senior)](./tech/responsabilities#desenvolvedor), pra ajudar na criacao do app mobile
-- [Dev BackEnd NestJs (Pleno / Senior)](./tech/responsabilities#desenvolvedor)
+- [Dev Mobile Flutter](./tech/responsabilities#desenvolvedor), pra ajudar na criacao do app mobile
+- [Dev BackEnd NestJs](./tech/responsabilities#desenvolvedor)
 - [DevSecOps](./tech/responsabilities#devsecops), principalmente pra integrar com o OpenFinance, tem uma baita burocracia de deixar tudo seguro
 - [QA](./tech/responsabilities#qa), testar as paradas pra garantir q tá tudo funcionando bem, e no futuro fazer os testes de integracao
-- [Engenheiro de dados (Pleno / Senior)](./tech/responsabilities#engenheiro-de-dados), pra guiar os engenheiros e garantir que as melhores praticas estao sendo utilizadas
+- [Engenheiro de dados](./tech/responsabilities#engenheiro-de-dados), pra guiar os engenheiros e garantir que as melhores praticas estao sendo utilizadas
 
 ## Marketing
 

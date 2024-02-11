@@ -10,10 +10,12 @@ A area de legislação agrega todas as areas que serão segregadas em suas propr
 
 > TO DO
 
+<!--
 ### Necessario para ocupar o cargo
 
 - Faculdade de direito concluida
 - Autorização da OAB para exercer a profissão
+- -->
 
 ### Lista de responsabilidades
 
@@ -27,9 +29,11 @@ A area de legislação agrega todas as areas que serão segregadas em suas propr
 
 > TO DO
 
+<!--
 ### Necessario para ocupar o cargo
 
 - Faculdade de psicologia **ou experiencia similar**
+- -->
 
 ### Lista de responsabilidades
 

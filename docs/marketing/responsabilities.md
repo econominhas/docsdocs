@@ -6,9 +6,11 @@ sidebar_position: 1
 
 ## Publicitário
 
+<!--
 ### Necessario para ocupar o cargo
 
 - Graduação em publicidade **ou experiencia similar**
+- -->
 
 ### Lista de responsabilidades
 
@@ -20,9 +22,11 @@ sidebar_position: 1
 
 A pessoa que escreve os textos publicos, e revisa os textos escritos pelos outros times, para garantir que estejam sem nenhum erro de escrita e escrito do modo mais didatico e explicativo possivel.
 
+<!--
 ### Necessario para ocupar o cargo
 
 - Graduação em letras **ou experiencia similar**
+- -->
 
 ### Lista de responsabilidades
 
