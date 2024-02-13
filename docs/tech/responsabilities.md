@@ -56,7 +56,7 @@ Obs: Todas as experiencias exigidas são condizentes com a senioridade especific
 
 > TO DO
 
-## DevOps
+## DevOps / Infra
 
 **Importante:** [Senioridades](./responsabilities#cargos-e-responsabilidades)
 
