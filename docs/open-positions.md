@@ -10,9 +10,7 @@ Não é necessário ter experiência na área que você quer atuar, basta apenas
 
 ## Tecnologia
 
-- [Dev Mobile Flutter](./tech/responsabilities#desenvolvedor), pra ajudar na criacao do app mobile
-- [Dev BackEnd NestJs](./tech/responsabilities#desenvolvedor)
-- [Dev FrontEnd NextJs](./tech/responsabilities#desenvolvedor)
+- [Dev Mobile](./tech/responsabilities#desenvolvedor), pra ajudar na criacao do app mobile
 - [Infra](./tech/responsabilities#devops--infra), Cuidar da parte Infra-as-code, cloud, pipelines, etc
 - [DevSecOps](./tech/responsabilities#devsecops), principalmente pra integrar com o OpenFinance, tem uma baita burocracia de deixar tudo seguro
 - [QA](./tech/responsabilities#qa), testar as paradas pra garantir q tá tudo funcionando bem, e no futuro fazer os testes de integracao
@@ -22,6 +20,11 @@ Não é necessário ter experiência na área que você quer atuar, basta apenas
 
 - [Publicitario](./marketing/responsabilities#publicitário), pessoa q manje de marketing, redes sociais, pra fazer divulgacao, criar campanhas, etc
 - [Redator](./marketing/responsabilities#redator), para escrever uns textos massas e revidar textos escritos
+
+## Design
+
+- [Designer](./design/responsabilities#designer), pra criar artes, logo, posts pras redes, imagens pra usarmos no app
+- [UI Designer](./design/responsabilities#ui-designer), desenhar as UIs do web e mobile
 
 ## Legislacao
 
