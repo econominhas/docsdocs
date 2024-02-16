@@ -10,11 +10,9 @@ Não é necessário ter experiência na área que você quer atuar, basta apenas
 
 ## Tecnologia
 
-- [Dev Mobile](./tech/responsabilities#desenvolvedor), pra ajudar na criacao do app mobile
 - [Infra](./tech/responsabilities#devops--infra), Cuidar da parte Infra-as-code, cloud, pipelines, etc
 - [DevSecOps](./tech/responsabilities#devsecops), principalmente pra integrar com o OpenFinance, tem uma baita burocracia de deixar tudo seguro
 - [QA](./tech/responsabilities#qa), testar as paradas pra garantir q tá tudo funcionando bem, e no futuro fazer os testes de integracao
-- [Engenheiro de dados](./tech/responsabilities#engenheiro-de-dados), pra guiar os engenheiros e garantir que as melhores praticas estao sendo utilizadas
 
 ## Marketing
 
