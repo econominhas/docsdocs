@@ -10,6 +10,7 @@ Não é necessário ter experiência na área que você quer atuar, basta apenas
 
 ## Tecnologia
 
+- [Dev BackEnd NestJs](./tech/responsabilities#desenvolvedor)
 - [Infra](./tech/responsabilities#devops--infra), Cuidar da parte Infra-as-code, cloud, pipelines, etc
 - [DevSecOps](./tech/responsabilities#devsecops), principalmente pra integrar com o OpenFinance, tem uma baita burocracia de deixar tudo seguro
 - [QA](./tech/responsabilities#qa), testar as paradas pra garantir q tá tudo funcionando bem, e no futuro fazer os testes de integracao
