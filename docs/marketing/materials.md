@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# Meteriais
+# Materiais
 
 ## PressKits
 
-### Cartoes de crédito
+### Cartões de crédito
 
 - [Elo](https://www.elo.com.br/imprensa)
 
