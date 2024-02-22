@@ -41,7 +41,7 @@ Obs: Todas as experiencias exigidas são condizentes com a senioridade especific
 - Experiencia de mercado / projetos pessoais
 - Experiencia com TypeScript
 - Experiencia com as tecnologias utilizadas em cada uma das areas
-  - [BackEnd](./backend/tech.md)
+  - [BackEnd](./backend/to-study.mdx)
   - [Mobile](./mobile/tech.md)
 
 ## QA
