@@ -8,6 +8,6 @@ sidebar_position: 3
 
 - [Twitch UI Design](https://www.youtube.com/shorts/4YJT6O4uE3A)
 
-## Metodos
+## Métodos
 
 - [All Design Methods](https://www.designmethods.co.uk/)
