@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Ferramentas
 
-## Analise de comportamento do usuário
+## Análise de comportamento do usuário
 
 - [Sessionstack](https://www.sessionstack.com/)
 - [Amplitude](https://amplitude.com/)
