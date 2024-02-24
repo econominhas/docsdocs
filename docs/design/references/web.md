@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Versao web
+# Versão web
 
 ![alt text](./img/web1.png)
 ![alt text](./img/web2.png)
