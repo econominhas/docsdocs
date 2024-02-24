@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Nova transacao
+# Nova transação
 
 ![alt text](./img/new-transaction1.png)
