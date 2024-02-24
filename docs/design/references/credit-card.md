@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Cartao de credito
+# Cartão de crédito
 
 ![alt text](./img/credit-card1.png)
 ![alt text](./img/credit-card2.png)
