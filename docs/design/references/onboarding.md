@@ -16,5 +16,5 @@ sidebar_position: 1
 ![alt text](./img/onboarding-flow2.png)
 ![alt text](./img/onboarding-flow3.png)
 
-- Ultima etapa - Parabéns:
-  - Parabenizar o usuário por ter concluido isso e depois de uns segundos redireciona-lo para a home (ter algum indicador visual de q ele será redirecionado)
+- Última etapa - Parabéns:
+  - Parabenizar o usuário por ter concluído isso e depois de uns segundos redirecioná-lo para a home (ter algum indicador visual de q ele será redirecionado)
