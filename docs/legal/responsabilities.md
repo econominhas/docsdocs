@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Cargos e responsabilidades
 
-A area de legislação agrega todas as areas que serão segregadas em suas proprias areas com o tempo, mas como somos extremamente pequenos, estão todas juntas dentro do mesmo guarda chuva.
+A área de legislação agrega todas as áreas que serão segregadas em suas próprias áreas com o tempo, mas como somos extremamente pequenos, estão todas juntas dentro do mesmo guarda chuva.
 
 ## Compliance
 
@@ -19,7 +19,7 @@ A area de legislação agrega todas as areas que serão segregadas em suas propr
 
 ### Lista de responsabilidades
 
-- Garantir que todas as ações da organização estejam dentro da lei
+- Garantir que todas as ações da organização estejam dentro da lei.
 
 ## Contador
 
@@ -37,6 +37,6 @@ A area de legislação agrega todas as areas que serão segregadas em suas propr
 
 ### Lista de responsabilidades
 
-- Guiar os líderes de equipe nos processos de desligamento de colaboradores para garantir que seja hunamizado e que esgotemos nossas alternativas pra resolver o problema antes de realizar o desligamento
-- Garantir que a cultura da empresa seja mantida, atravez de eventos, palestras ou outros metodos que julguem adequados
-- Fazer o processo de recrutamento e seleção de novos colaboradores
+- Guiar os líderes de equipe nos processos de desligamento de colaboradores para garantir que seja humanizado e que esgotemos nossas alternativas para resolver o problema antes de realizar o desligamento.
+- Garantir que a cultura da empresa seja mantida, através de eventos, palestras ou outros métodos que julguem adequados.
+- Fazer o processo de recrutamento e seleção de novos colaboradores.
